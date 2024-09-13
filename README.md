@@ -84,16 +84,18 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 PLACEMENT DATA:
 ![Screenshot 2024-09-13 142806](https://github.com/user-attachments/assets/b11efb6f-e450-405e-ac1f-da56f103110f)
 
-
 SALARY DATA:
+
 ![Screenshot 2024-09-13 143119](https://github.com/user-attachments/assets/c493e531-ea8e-4358-8764-b562bcfcdafb)
 
 
 CHECKING THE NULL() FUNCTION:
+
 ![Screenshot 2024-09-13 143134](https://github.com/user-attachments/assets/00592eb5-c564-47e3-9596-01d8b7268026)
 
 
 DATA DUPLICATE:
+
 ![Screenshot 2024-09-13 143141](https://github.com/user-attachments/assets/423d4d97-f630-4efa-84f3-5884c3306221)
 
 
