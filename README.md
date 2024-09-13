@@ -84,38 +84,50 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 PLACEMENT DATA:
 ![Screenshot 2024-09-13 142806](https://github.com/user-attachments/assets/b11efb6f-e450-405e-ac1f-da56f103110f)
 
+
 SALARY DATA:
 ![Screenshot 2024-09-13 143119](https://github.com/user-attachments/assets/c493e531-ea8e-4358-8764-b562bcfcdafb)
+
 
 CHECKING THE NULL() FUNCTION:
 ![Screenshot 2024-09-13 143134](https://github.com/user-attachments/assets/00592eb5-c564-47e3-9596-01d8b7268026)
 
+
 DATA DUPLICATE:
 ![Screenshot 2024-09-13 143141](https://github.com/user-attachments/assets/423d4d97-f630-4efa-84f3-5884c3306221)
+
 
 PRINT DATA:
 ![Screenshot 2024-09-13 143236](https://github.com/user-attachments/assets/12abc52b-a6b2-4663-992b-2451935d4dba)
 
+
 DATA STATUS:
 ![Screenshot 2024-09-13 143246](https://github.com/user-attachments/assets/041463e6-5168-490b-bbb3-a40828f67610)
+
 
 DATA STATUS:
 ![Screenshot 2024-09-13 143246](https://github.com/user-attachments/assets/0a22d0be-6050-4981-9b59-a5a615614992)
 
+
 Y PREDICTION ARRAY:
 ![Screenshot 2024-09-13 143303](https://github.com/user-attachments/assets/758558fa-33d3-471e-8777-138ece93d804)
+
 
 ACCURACY VALUE:
 ![Screenshot 2024-09-13 143356](https://github.com/user-attachments/assets/0f617052-241c-471a-b8dc-2bda50f8d076)
 
+
 CONFUSION ARRAY:
 ![Screenshot 2024-09-13 143400](https://github.com/user-attachments/assets/bd3ea8a9-ab25-4414-b211-75d7ce3c3f61)
+
 
 CLASSIFICATION REPORT:
 ![Screenshot 2024-09-13 143410](https://github.com/user-attachments/assets/fe94576f-d034-4835-b5bb-9fb6a7913dc3)
 
+
 PREDICTION OF LR:
 ![Screenshot 2024-09-13 143425](https://github.com/user-attachments/assets/89d5d680-4d08-49e4-95e3-39c269f1d3c6)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
