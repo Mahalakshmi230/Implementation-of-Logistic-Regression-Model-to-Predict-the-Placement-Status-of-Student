@@ -100,34 +100,42 @@ DATA DUPLICATE:
 
 
 PRINT DATA:
+
 ![Screenshot 2024-09-13 143236](https://github.com/user-attachments/assets/12abc52b-a6b2-4663-992b-2451935d4dba)
 
 
 DATA STATUS:
+
 ![Screenshot 2024-09-13 143246](https://github.com/user-attachments/assets/041463e6-5168-490b-bbb3-a40828f67610)
 
 
 DATA STATUS:
+
 ![Screenshot 2024-09-13 143246](https://github.com/user-attachments/assets/0a22d0be-6050-4981-9b59-a5a615614992)
 
 
 Y PREDICTION ARRAY:
+
 ![Screenshot 2024-09-13 143303](https://github.com/user-attachments/assets/758558fa-33d3-471e-8777-138ece93d804)
 
 
 ACCURACY VALUE:
+
 ![Screenshot 2024-09-13 143356](https://github.com/user-attachments/assets/0f617052-241c-471a-b8dc-2bda50f8d076)
 
 
 CONFUSION ARRAY:
+
 ![Screenshot 2024-09-13 143400](https://github.com/user-attachments/assets/bd3ea8a9-ab25-4414-b211-75d7ce3c3f61)
 
 
 CLASSIFICATION REPORT:
+
 ![Screenshot 2024-09-13 143410](https://github.com/user-attachments/assets/fe94576f-d034-4835-b5bb-9fb6a7913dc3)
 
 
 PREDICTION OF LR:
+
 ![Screenshot 2024-09-13 143425](https://github.com/user-attachments/assets/89d5d680-4d08-49e4-95e3-39c269f1d3c6)
 
 
